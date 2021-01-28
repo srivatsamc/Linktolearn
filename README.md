@@ -1,0 +1,2 @@
+# Linktolearn
+Traditional educational platform
